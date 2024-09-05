@@ -1,1 +1,2 @@
-E2D 1.0.0
+Ultimaker 2.0.1
+Template 2.0.1
