@@ -1,2 +1,1 @@
-geeetech 1.0.1
-svg2
+HartSmart 1.1.0
