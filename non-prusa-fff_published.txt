@@ -1,1 +1,1 @@
-HartSmart 1.1.0
+QIDI 2.0.0
