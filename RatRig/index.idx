@@ -1,3 +1,5 @@
+min_slic3r_version = 2.9.2
+2.2.0 Updated VC4 profiles. If updating from previous profiles please re-run the wizard to load the latest profiles.
 min_slic3r_version = 2.9.1-alpha0
 2.1.0 Extruder clearance moved to printer settings.
 min_slic3r_version = 2.8.0-alpha0
