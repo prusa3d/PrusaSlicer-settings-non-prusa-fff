@@ -1,4 +1,5 @@
 min_slic3r_version = 2.9.1-alpha0
+2.2.2-alpha Fixed some bugs so the profile is accepted to merge
 2.2.1-alpha Added Support for Elegoo Centauri Carbon
 2.1.0 Extruder clearance moved to printer settings.
 min_slic3r_version = 2.8.0-alpha1
