@@ -1,0 +1,86 @@
+solid k2pro_bed
+  facet normal 0 0 1
+    outer loop
+      vertex -150 -150 0
+      vertex  150 -150 0
+      vertex  150  150 0
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex -150 -150 0
+      vertex  150  150 0
+      vertex -150  150 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -150 -150 -3
+      vertex  150  150 -3
+      vertex  150 -150 -3
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -150 -150 -3
+      vertex -150  150 -3
+      vertex  150  150 -3
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -150 -150 -3
+      vertex  150 -150 -3
+      vertex  150 -150 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -150 -150 -3
+      vertex  150 -150 0
+      vertex -150 -150 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -150 150 -3
+      vertex  150 150 0
+      vertex  150 150 -3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -150 150 -3
+      vertex -150 150 0
+      vertex  150 150 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -150 -150 -3
+      vertex -150 -150 0
+      vertex -150  150 0
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -150 -150 -3
+      vertex -150  150 0
+      vertex -150  150 -3
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 150 -150 -3
+      vertex 150  150 0
+      vertex 150 -150 0
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 150 -150 -3
+      vertex 150  150 -3
+      vertex 150  150 0
+    endloop
+  endfacet
+endsolid k2pro_bed
