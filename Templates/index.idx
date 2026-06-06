@@ -1,4 +1,5 @@
 min_slic3r_version = 2.8.0-alpha0
+2.0.4 Added FilAr PLA, PLA Mate and PETG filaments.
 2.0.3 Updated 3D-Fuel filament templates.
 2.0.2 Added new templates.
 2.0.1 Added Prusament Woodfill, Prusament rPLA and VOXELPLA filaments.
